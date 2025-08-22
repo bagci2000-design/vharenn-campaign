@@ -17,6 +17,9 @@ Adventurers tied to the Web might be **trained infiltrators**, **escaped pawns**
     
 
 ---
+```
 ::: hidden
-Eren is a dickhead
+This is some private text that should not be published.
 :::
+```
+
