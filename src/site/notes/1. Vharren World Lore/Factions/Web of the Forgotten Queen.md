@@ -17,12 +17,3 @@ Adventurers tied to the Web might be **trained infiltrators**, **escaped pawns**
     
 
 ---
-```
-::: hidden
-This is some private text that should not be published.
-:::
-```
-
-::: hidden
-This is some private text that should not be published.
-:::
