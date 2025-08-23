@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-vharren-world-lore/factions/web-of-the-forgotten-queen/"}
 ---
 
+![Web of the Forgotten Queen.png](/img/user/z.%20Assets/Web%20of%20the%20Forgotten%20Queen.png)
 ##  **Web of the Forgotten Queen**
 
 The Web of the Forgotten Queen is a **clandestine network** led by powerful **Chitari matriarchs**, operating from hidden strongholds. They weave **information**, **influence**, and **assassinations** into a tapestry of control, avoiding open conflict in favour of **manipulation**, **blackmail**, and the **strategic removal** of threats.
