@@ -8,7 +8,7 @@
 **Domains:** Growth, Renewal, Beasts, Harmony
 
 **Player-Facing Lore:**  
-Lyssane is the goddess of wild growth and balance. Her worship thrives among druids, rangers, and farmers, particularly in the southern Verdant Expanse. Her holy symbol is a blooming flower cradled in two hands. Followers believe that all life must be nurtured but also pruned when necessary.
+Lyssane is the goddess of wild growth and balance. Her worship thrives among druids, rangers, and farmers, particularly in the southern [[1. Vharren World Lore/Factions/Verdant Expanse\|Verdant Expanse]]. Her holy symbol is a blooming flower cradled in two hands. Followers believe that all life must be nurtured but also pruned when necessary.
 
 
 ---

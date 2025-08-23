@@ -8,7 +8,7 @@
 
 The Silent Choir is a **secretive religious order** that claims to be the last true voice of the divine. Its members take **vows of silence**, communicating only through **ritual gestures** or **carefully prepared writings**.
 
-Their alignment ranges from **Lawful Good** to **Lawful Neutral**, grounded in an unwavering belief that they are the final stewards of holy will in a fallen world. They employ informants—including some **Noxarii**—and maintain a tense alliance with the **Alabaster Concordat**. **Fellborn** and **Pyreborn** are viewed as dangerous heretics.
+Their alignment ranges from **[[7. Campaign Mechanics/HomeBrew/Character Allignment\|Lawful Good to Lawful Neutral]]**, grounded in an unwavering belief that they are the final stewards of holy will in a fallen world. They employ informants—including some **[[1. Vharren World Lore/Races/Noxarii\|Noxarii]]**—and maintain a tense alliance with the **[[1. Vharren World Lore/Factions/Alabaster Concordat\|Alabaster Concordat]]**. **[[1. Vharren World Lore/Races/Fellborn\|Fellborn]]** and **Pyreborn** are viewed as dangerous heretics.
 
 Adventurers tied to the Silent Choir may serve as **voice-bearers**—rare emissaries permitted to speak on the Choir’s behalf—or as **militant protectors** safeguarding sacred sites. To serve them is to carry the weight of divine judgment, knowing your words and actions may shape—or end—lives.
 

@@ -6,9 +6,9 @@
 ![Alabaster Concordat.png](/img/user/z.%20Assets/Alabaster%20Concordat.png)
 ##  **Alabaster Concordat**
 
-A coalition of mage cabals, arcane universities, and wandering sorcerer guilds, the Alabaster Concordat works to **regulate, preserve, and control** the use of arcane power across Vharenn. Its members range from **Neutral Good** to **Neutral Evil**, united more by necessity than moral agreement.
+A coalition of mage cabals, arcane universities, and wandering sorcerer guilds, the Alabaster Concordat works to **regulate, preserve, and control** the use of arcane power across [[1. Vharren World Lore/Vharenn\|Vharenn]]. Its members range from **[[7. Campaign Mechanics/HomeBrew/Character Allignment\|Neutral Good to Neutral Evil]]**, united more by necessity than moral agreement.
 
-The Concordat **enforces magical laws**, **maintains arcane libraries**, and **dispatches envoys** to investigate disruptive or dangerous magical phenomena. They work closely with **Veylen** scholars and sometimes employ **Vyrathi** seers, but remain deeply suspicious of **Emberkin** and **Fellborn**, fearing the instability they represent.
+The Concordat **enforces magical laws**, **maintains arcane libraries**, and **dispatches envoys** to investigate disruptive or dangerous magical phenomena. They work closely with **[[1. Vharren World Lore/Races/Veylen\|Veylen]]** scholars and sometimes employ **[[1. Vharren World Lore/Races/Vyrathi\|Vyrathi]]** seers, but remain deeply suspicious of **[[1. Vharren World Lore/Races/Emberkin\|Emberkin]]** and **[[1. Vharren World Lore/Races/Fellborn\|Fellborn]]**, fearing the instability they represent.
 
 Politics within the Concordat are layered and competitive; advancement depends on both **magical mastery** and the ability to navigate the **internal rivalries** of its many circles. Joining means stepping into a world where **knowledge is power**, **every piece of information has a price**, and power is heavily guarded.
 

@@ -8,7 +8,7 @@
 **Domains:** Spiders, Shadows, Patience, Control
 
 **Player-Facing Lore:**  
-Zyrr is the matron of the Chitari and the embodiment of patient power. She spins the fates of mortals like threads in her web, each movement deliberate and unseen until it is too late to escape. Depicted as a regal spider-woman, her holy symbol is a black spider over a silver web. Her followers are taught that every action must serve a greater design, and that power gained too quickly is fragile and fleeting.
+Zyrr is the matron of the [[1. Vharren World Lore/Races/Chitari\|Chitari]] and the embodiment of patient power. She spins the fates of mortals like threads in her web, each movement deliberate and unseen until it is too late to escape. Depicted as a regal spider-woman, her holy symbol is a black spider over a silver web. Her followers are taught that every action must serve a greater design, and that power gained too quickly is fragile and fleeting.
 
 
 ---

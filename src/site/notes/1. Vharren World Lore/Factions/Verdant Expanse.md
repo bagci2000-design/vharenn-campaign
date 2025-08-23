@@ -4,7 +4,7 @@
 
 
 
-##  **Verdant Expanse Compact**
+##  **[[2. Regions/Key Areas/Verdant Expanse\|Verdant Expanse]] Compact**
 
 Alliance of druids, beastfolk, and traders maintaining a safehaven.
 
