@@ -10,7 +10,7 @@
 - [ ] Meet on the Island
 - [ ] ???
 
-
+---
 ### Previous Session Summary
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -23,14 +23,36 @@
 </div></div>
 
 
+---
+### Inspiration Tracker:
+## Current Inspiration Tokens Available : 10
 
-### Inspiration Tracker
-# Current Inspiration Tokens Available : 10
+---
 
-### Current Party XP
-0
+
+
+# Current Party XP
+***0
+
+---
+
+
+
 
 ### Party Relationship Tracker
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Faction</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Your Standing</span></th><th class="table-view-th"><span>Benefits</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
 
+|Faction|Standing|Benefits|
+|:--|:-:|:-:|
+|Alabaster Concordat|3|neutral|
+|Crimson Banner|3|neutral|
+|Frostbrand Tribunal|3|neutral|
+|Leviathan Vault|3|neutral|
+|Pyreborn Circle|3|neutral|
+|Remnant Thrones|3|neutral|
+|Seasonal Courts|3|neutral|
+|Shattered Mask|3|neutral|
+|Silent Choir|3|neutral|
+|Thornhold|3|neutral|
+|Verdant Expanse|3|neutral|
+|Web of the Forgotten Queen|3|neutral|
