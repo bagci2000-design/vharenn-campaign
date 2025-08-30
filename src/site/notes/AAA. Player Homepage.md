@@ -44,15 +44,14 @@
 
 |Faction|Standing|Benefits|
 |:--|:-:|:-:|
-|Alabaster Concordat|3|neutral|
-|Crimson Banner|3|neutral|
-|Frostbrand Tribunal|3|neutral|
-|Leviathan Vault|3|neutral|
-|Pyreborn Circle|3|neutral|
-|Remnant Thrones|3|neutral|
-|Seasonal Courts|3|neutral|
-|Shattered Mask|3|neutral|
-|Silent Choir|3|neutral|
-|Thornhold|3|neutral|
-|Verdant Expanse|3|neutral|
-|Web of the Forgotten Queen|3|neutral|
+|[[1. Vharren World Lore/Factions/Alabaster Concordat\|Alabaster Concordat]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Crimson Banner\|Crimson Banner]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Pyreborn Circle\|Pyreborn Circle]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Remnant Thrones\|Remnant Thrones]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Seasonal Courts\|Seasonal Courts]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Shattered Mask\|Shattered Mask]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Silent Choir\|Silent Choir]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Thornhold\|Thornhold]]|3|neutral|
+|[[1. Vharren World Lore/Factions/Web of the Forgotten Queen\|Web of the Forgotten Queen]]|3|neutral|
