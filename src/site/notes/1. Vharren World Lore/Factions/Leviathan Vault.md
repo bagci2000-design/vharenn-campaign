@@ -16,4 +16,6 @@ Adventurers tied to the Vault may be tasked with **recovering stolen artefacts**
 
 - Trade agreements are sealed by exchanging **carved sea-stones**, which are then cast into the ocean to “bind” the pact in the sea’s memory.
 - **Player-Facing:** Trade pearls, exotic sea-silk, deepfish oils, and rare ship designs.
+
 ---
+

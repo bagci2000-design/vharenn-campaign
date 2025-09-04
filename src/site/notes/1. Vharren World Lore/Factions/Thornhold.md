@@ -19,4 +19,5 @@ Thornhold’s alliances are pragmatic—willing to work with factions that stren
 - Feast days honour military victories, with public trials staged as **moral theatre**.
     
 - **Player-Facing:** Exports arms, siege engines, and heavily trained mercenaries. Imports rare metals and magical reagents.
+
 ---

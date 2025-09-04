@@ -19,4 +19,6 @@ Life within the Circle is dangerous: loyalty brings purpose, while dissent is pu
 - Initiates prove their devotion by walking barefoot across hot coals.
     
 - Export volcanic glass, obsidian weaponry, and alchemical fire.
+
 ---
+

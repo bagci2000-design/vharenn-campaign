@@ -17,7 +17,11 @@ To most beyond its shores, Turek is still a name that barely registers — a rem
 
 
 
-# Storehouse Map
+
 
 ![The Burned Storehouse.png](/img/user/z.%20Assets/The%20Burned%20Storehouse.png)
+
+## 🔥 **The Burned Storehouse**
+
+
 
