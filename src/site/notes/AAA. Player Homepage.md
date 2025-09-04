@@ -7,7 +7,7 @@
 
 
 
-- [ ] Meet on the Island
+- [ ] Arrive at Turek
 - [ ] ???
 
 ---
