@@ -26,7 +26,7 @@
 
 ---
 ### Inspiration Tracker:
-## Current Inspiration Tokens Available : 10
+## Current Inspiration Tokens Available : 8
 
 ---
 
