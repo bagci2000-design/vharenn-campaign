@@ -17,8 +17,9 @@
 
 
 
--Things to keep note of #1
--Things to keep note of #2
+-Each of the party on their own path in life feel an otherworldly presence, an omnipresent stare, a divine being. A whisper is heard, booming yet quiet, the words heard **“Come to the island, chosen of fate. Your strength, your cunning, your faith, and your craft will shape what must come. Alone you may falter — together, you will lead the way.” (Please refer to your Whatsapp message for your private ending, Do not under any circumstances share this with any other party member, no exceptions)**
+-The party all awake time post hearing the whisper blurred together, Memories faded, Out of body experience removing any semblance over control of their actions. Finding themselves on a boat surrounded by familiar and unfamiliar faces, The party is brought together by their shared experience, unsure of what the future holds, only knowing that their destinies are now forever intertwined.
+-???
 
 </div></div>
 
