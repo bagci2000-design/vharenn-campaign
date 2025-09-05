@@ -7,8 +7,8 @@
 
 
 
-- [x] Arrive at Turek
-- [ ] Gain trust of Frostbrand Tribunal Members on Turek
+- [x] Arrive at [[2. Regions/Landmarks & Wonders/Turek\|Turek]]
+- [ ] Gain trust of [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] Members on [[2. Regions/Landmarks & Wonders/Turek\|Turek]]
 - [ ] Investigate storehouse
 - [ ] ???
 
@@ -21,8 +21,8 @@
 
 -Each of the party on their own path in life feel an otherworldly presence, an omnipresent stare, a divine being. A whisper is heard, booming yet quiet, the words heard **“Come to the island, chosen of fate. Your strength, your cunning, your faith, and your craft will shape what must come. Alone you may falter — together, you will lead the way.” (Please refer to your Whatsapp message for your private ending, Do not under any circumstances share this with any other party member, no exceptions)**
 -The party all awake time post hearing the whisper blurred together, Memories faded, Out of body experience removing any semblance over control of their actions. Finding themselves on a boat surrounded by familiar and unfamiliar faces, The party is brought together by their shared experience, unsure of what the future holds, only knowing that their destinies are now forever intertwined.
--Party has met Captain Haddock piloting the ship, you have set sail from northern most peak of the Ironholt peaks, travelling to the island of [[2. Regions/Landmarks & Wonders/Turek\|Turek]], you have paid 470gp as a group and your food and water is on board. Captain Haddock, has disclosed that the party all boarded the ship with dead stares but for the gold you are paying, he didn't ask any questions. You are 1 day into your travel, with ~3.5 days remaining to reach the island.
--The party landing at Port Veilmar. A Patrol Ship approaches the Party ship, introducing herself as [[3. NPC's/Turek/Captain Haldra Vey\|Captain Haldra Vey]] of the [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] boards the ship. The party is accused of being [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]] Spies purely out of paranoia. [[4. Player Characters/Samed\|Samed]] offends [[3. NPC's/Turek/Captain Haldra Vey\|Captain Haldra Vey]] and the party is arrested.
+-Party has met Captain Haddock piloting the ship, you have set sail from northern most peak of the [[2. Regions/Key Areas/Ironholt Peaks\|Ironholt peaks]], travelling to the island of [[2. Regions/Landmarks & Wonders/Turek\|Turek]], you have paid 470gp as a group and your food and water is on board. Captain Haddock, has disclosed that the party all boarded the ship with dead stares but for the gold you are paying, he didn't ask any questions. You are 1 day into your travel, with ~3.5 days remaining to reach the island.
+-The party landing at Port Veilmar. A Patrol Ship approaches the Party ship, introducing herself as [[3. NPC's/Turek/Captain Haldra Vey\|Captain Haldra Vey]] of the [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] boards the ship. The party is accused of being [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]] Spies purely out of paranoia. [[4. Player Characters/Vorran, Binder of Souls\|Vorran, Binder of Souls]] offends [[3. NPC's/Turek/Captain Haldra Vey\|Captain Haldra Vey]] and the party is arrested.
 -Party is brought before the court, And after some talking, the party agrees to assist the [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]] with his quest to investigate the storehouse for signs of sabotage from the other factions.
 -Party were able to ascertain lore about [[2. Regions/Landmarks & Wonders/Turek\|Turek]] from various sources.
 -Party loot what remains in the burned storehouse. Party so far has discovered that the fire was intentional and found an unconscious suspect in the storehouse and a letter on his person.
@@ -32,7 +32,7 @@
 
 ---
 ### Inspiration Tracker:
-## Current Inspiration Tokens Available : 
+## Current Inspiration Tokens Available : 8
 
 ---
 

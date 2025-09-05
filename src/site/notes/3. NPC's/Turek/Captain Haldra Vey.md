@@ -3,4 +3,4 @@
 ---
 
 
-A battle-hardened Human Tribunal officer and lead of the Patrol forces, 
+A battle-hardened [[1. Vharren World Lore/Races/Human\|Human]] Tribunal officer and lead of the Patrol forces, 

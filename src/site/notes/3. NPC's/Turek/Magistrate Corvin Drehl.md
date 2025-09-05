@@ -3,4 +3,4 @@
 ---
 
 
-The lead of Turek's Frostbrand Tribunal branch. 
+The lead of [[2. Regions/Landmarks & Wonders/Turek\|Turek]]'s [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] branch. 

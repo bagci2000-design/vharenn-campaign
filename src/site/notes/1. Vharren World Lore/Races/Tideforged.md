@@ -11,7 +11,7 @@ The Tideforged are a seafaring race whose skin bears the colours and patterns of
 
 Tideforged communities cluster along coasts, islands, and river deltas. They revere the sea as both mother and grave, offering ritual gifts to ensure safe voyages. Their ships are masterpieces of craftsmanship, blending speed and durability. While they prefer peaceful trade, they are no strangers to naval warfare when their waters are threatened.
 
-Their art and music often mimic the rhythms of waves, and their oral histories stretch back to before recorded human settlement.
+Their art and music often mimic the rhythms of waves, and their oral histories stretch back to before recorded [[1. Vharren World Lore/Races/Human\|human]] settlement.
 
 ### **Most Appropriate Factions:**
 - [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]]
