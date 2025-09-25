@@ -6,3 +6,6 @@
 
 # Druid, [[1. Vharren World Lore/Races/Vergir\|Vergir]], Chaotic Neutral
 
+
+
+9hp

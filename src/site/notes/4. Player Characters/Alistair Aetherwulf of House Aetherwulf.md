@@ -6,3 +6,7 @@
 
 # Artificer, [[1. Vharren World Lore/Races/Human\|Human]], Chaotic Good
 
+
+
+
+*8hp*

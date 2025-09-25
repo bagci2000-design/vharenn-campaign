@@ -8,3 +8,6 @@
 # Warlock, [[1. Vharren World Lore/Races/Glacari\|Glacari]], Chaotic neutral
 
 
+
+
+8hp

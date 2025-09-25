@@ -6,3 +6,6 @@
 
 # Ranger, [[1. Vharren World Lore/Races/Chitari\|Chitari]], Lawful Evil
 
+
+
+6hp

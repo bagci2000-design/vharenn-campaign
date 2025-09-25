@@ -7,3 +7,6 @@
 
 # Wizard, [[1. Vharren World Lore/Races/Veylen\|Veylen]], Neutral Good
 
+
+
+7hp

@@ -6,3 +6,6 @@
 
 Bard [[1. Vharren World Lore/Races/Grimkin\|Grimkin]], Chaotic Neutral
 
+
+
+5hp

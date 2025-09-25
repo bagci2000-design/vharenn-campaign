@@ -6,3 +6,6 @@
 
 # Paladin, [[1. Vharren World Lore/Races/Glacari\|Glacari]], chaotic neutral
 
+
+
+9hp

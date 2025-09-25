@@ -6,3 +6,5 @@
 
 # Rogue, [[1. Vharren World Lore/Races/Tideforged\|Tideforged]], Chaotic Neutral
 
+
+6hp

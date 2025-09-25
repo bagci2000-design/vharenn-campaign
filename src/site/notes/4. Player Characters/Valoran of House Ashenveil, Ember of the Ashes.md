@@ -7,3 +7,6 @@
 
 # Sorcerer, [[1. Vharren World Lore/Races/Veylen\|Veylen]], Chaotic Good
 
+
+
+6hp
