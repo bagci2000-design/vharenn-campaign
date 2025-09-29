@@ -12,6 +12,7 @@
 - [x] Investigate storehouse
 - [ ] Find out more about "D.R."
 - [ ] Investigate the other factions present on Turek
+- [ ] Attend Sir Revik's Ball
 - [ ] ???
 
 ---
