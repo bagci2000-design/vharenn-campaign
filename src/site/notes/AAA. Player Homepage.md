@@ -21,10 +21,12 @@
 
 
 
-- Party Returned to [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]] and was informed that while they had completed part of their investigation concluding that there was foul play, a name has not been presented as the perpetrator. 
-- The Only Lead the party has to go on is the initials on the letter found on the unconscious man "D.R."
-- The party are currently in the process of acquiring wares from the [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] armourer
-- The Party have also received back all of their starting gear
+- Party has decided to investigate the abondened settlement in Turek's no mans land.
+- [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]] discovers on one of the walls of the settlement building the exact same inscription as on the rune stone was found.
+- Rovik once accepted into the folds of the party explains that the Rune is a Turekan Ward and the specific one the party has found is a Threat from an elder being to the island as a whole.
+- Party encountered [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]] a [[1. Vharren World Lore/Factions/Thornhold\|Thornhold]] representative and her group of travelling Local's. They had been quite mercilessly beaten by [[3. NPC's/Turek/Sergeant Korrin\|Sergeant Korrin]] a [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] officer at the Sacred Springs.
+- [[4. Player Characters/Vorran, Binder of Souls\|Vorran, Binder of Souls]] was able to con [[3. NPC's/Turek/Sergeant Korrin\|Sergeant Korrin]] into giving over his notes from beating the locals and with it they were able to determine that their next point of interest lies in the [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]] lands.
+- On their way they ran into a mysterious caravan lead by Guard Isha and were invited by Sir Revik to the Elaborate Ballroom Dinner he is hosting.
 
 </div></div>
 
