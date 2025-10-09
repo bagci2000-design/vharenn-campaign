@@ -11,9 +11,9 @@
 - [x] Gain trust of [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] Members on [[2. Regions/Landmarks & Wonders/Turek\|Turek]]
 - [x] Investigate storehouse
 - [ ] Find out more about "D.R."
-- [ ] Investigate the other factions present on Turek
-- [ ] Attend Sir Revik's Ball
-- [ ] ???
+- [x] Investigate the other factions present on Turek
+- [x] Attend Sir Revik's Ball
+- [ ] Inform the Meeting of Faction Leaders who is the culprit
 
 ---
 ### Previous Session Summary
@@ -22,12 +22,12 @@
 
 
 
-- Party has decided to investigate the abondened settlement in Turek's no mans land.
-- [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]] discovers on one of the walls of the settlement building the exact same inscription as on the rune stone was found.
-- Rovik once accepted into the folds of the party explains that the Rune is a Turekan Ward and the specific one the party has found is a Threat from an elder being to the island as a whole.
-- Party encountered [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]] a [[1. Vharren World Lore/Factions/Thornhold\|Thornhold]] representative and her group of travelling Local's. They had been quite mercilessly beaten by [[3. NPC's/Turek/Sergeant Korrin\|Sergeant Korrin]] a [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] officer at the Sacred Springs.
-- [[4. Player Characters/Vorran, Binder of Souls\|Vorran, Binder of Souls]] was able to con [[3. NPC's/Turek/Sergeant Korrin\|Sergeant Korrin]] into giving over his notes from beating the locals and with it they were able to determine that their next point of interest lies in the [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]] lands.
-- On their way they ran into a mysterious caravan lead by Guard Isha and were invited by Sir Revik to the Elaborate Ballroom Dinner he is hosting.
+- Party have arrived at the Lavish Dinner Ball hosted by Sir Revik at his property with the party spending much of their time mingling among guests. 
+- All guests are masked and names have been requested by Revik to stay anonymous
+- [[4. Player Characters/Bug of the Night\|Bug of the Night]] met Lord Veyra with a request to meet back at the Vharenn Mainland soon
+- The party was able to ascertain that the purpose of tonight was for Sir Revik to increase his financial backing and allow for Leviathan Vault control to dominate the Island of [[2. Regions/Landmarks & Wonders/Turek\|Turek]]
+- Sir Revik has also offered the party the choice to aid him in gaining control of Turek by ousting the Frostbrand Tribunal as having committed a false flag operation.
+- If the Leviathan Vault and Sir Revik are able to consolidate power on Turek, Then Sir Revik will bestow upon the party a Large Sailing Ship with the party now carrying the deed to the ship as security.
 
 </div></div>
 
