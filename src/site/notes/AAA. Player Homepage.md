@@ -10,10 +10,12 @@
 - [x] Arrive at [[2. Regions/Landmarks & Wonders/Turek\|Turek]]
 - [x] Gain trust of [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] Members on [[2. Regions/Landmarks & Wonders/Turek\|Turek]]
 - [x] Investigate storehouse
-- [ ] Find out more about "D.R."
+- [x] Find out more about "D.R."
 - [x] Investigate the other factions present on Turek
 - [x] Attend Sir Revik's Ball
+- [ ] Attend the meeting of the Faction Leaders
 - [ ] Inform the Meeting of Faction Leaders who is the culprit
+- [ ] Decide the fate of Turek
 
 ---
 ### Previous Session Summary
@@ -22,12 +24,9 @@
 
 
 
-- Party have arrived at the Lavish Dinner Ball hosted by Sir Revik at his property with the party spending much of their time mingling among guests. 
-- All guests are masked and names have been requested by Revik to stay anonymous
-- [[4. Player Characters/Bug of the Night\|Bug of the Night]] met Lord Veyra with a request to meet back at the Vharenn Mainland soon
-- The party was able to ascertain that the purpose of tonight was for Sir Revik to increase his financial backing and allow for Leviathan Vault control to dominate the Island of [[2. Regions/Landmarks & Wonders/Turek\|Turek]]
-- Sir Revik has also offered the party the choice to aid him in gaining control of Turek by ousting the Frostbrand Tribunal as having committed a false flag operation.
-- If the Leviathan Vault and Sir Revik are able to consolidate power on Turek, Then Sir Revik will bestow upon the party a Large Sailing Ship with the party now carrying the deed to the ship as security.
+- [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]] has now requested that [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]] be eliminated and removed from the picture with the help of the party via an ambush.
+- Party have set up an ambush in the meeting area of the leaders for the factions present on Turek.
+- [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]] has just been presented with the head of [[3. NPC's/Turek/Dalen Revik\|Dalen Revik]].
 
 </div></div>
 

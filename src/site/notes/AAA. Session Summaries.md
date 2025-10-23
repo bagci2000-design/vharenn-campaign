@@ -59,4 +59,25 @@
 </div></div>
 
 
----
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- Party have come to discover that Sir Revik is really [[3. NPC's/Turek/Dalen Revik\|Dalen Revik]] through [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]].
+- After meeting with Eira an agreement was made that if the party were to go along with [[3. NPC's/Turek/Dalen Revik\|Dalen Revik]]'s plan would she be willing to live amongst their rule, which she was willing to accept
+- The party then uncovered that [[3. NPC's/Turek/Dalen Revik\|Dalen Revik]] was ultimately full of lies and all of his promises were fake or misleading at best
+- [[4. Player Characters/Vorrik, Breaker of Faith\|Vorrik, Breaker of Faith]] took it upon himself to cut off Reviks head
+- The party were able to talk out of any physical altercation with the private guardsmen in the mansion under the promise of serving under Eira now for 800GP to be paid by the party.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]] has now requested that [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]] be eliminated and removed from the picture with the help of the party via an ambush.
+- Party have set up an ambush in the meeting area of the leaders for the factions present on Turek.
+- [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]] has just been presented with the head of [[3. NPC's/Turek/Dalen Revik\|Dalen Revik]].
+
+</div></div>
