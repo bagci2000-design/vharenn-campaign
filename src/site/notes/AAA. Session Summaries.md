@@ -81,3 +81,45 @@
 - [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]] has just been presented with the head of [[3. NPC's/Turek/Dalen Revik\|Dalen Revik]].
 
 </div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- The party, after a failed negotiation with [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]], launch their ambush before he is able to leave the meeting place.
+    
+- A barrel with a dagger wedged into it at the perfect angle is exploded out and strikes [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]], leaving him unconscious.
+    
+- [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]] loots the unconscious Magistrate and takes his signet ring, an ivory pendant on a silver chain and 75GP.
+    
+- Following this, the party sets out to destroy the Smugglers Cove and further secure [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]] and [[1. Vharren World Lore/Factions/Thornhold\|Thornhold]]'s control over Turek.
+    
+- At the top of the cliffs overlooking the Town Hall, [[4. Player Characters/Elarian of House Ashenveil, Keeper of the Ashes\|Elarian of House Ashenveil, Keeper of the Ashes]] and 3 mercenaries prepare to roll oil barrels onto the building and ignite them with a fire cantrip.
+    
+- [[4. Player Characters/Bug of the Night\|Bug of the Night]], [[4. Player Characters/Aegis, Heir of the Ashenborn\|Aegis, Heir of the Ashenborn]] and 4 mercenaries are placed in charge of burning the top 2 docks before entering the town.
+    
+- [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]], [[4. Player Characters/Vorrik, Breaker of Faith\|Vorrik, Breaker of Faith]], [[4. Player Characters/Thelonuis The Blackwater\|Thelonuis The Blackwater]] and 6 mercenaries prepare to launch a full frontal assault through the main entrance.
+    
+- [[4. Player Characters/Yalger, The Tyrant\|Yalger, The Tyrant]] is placed in charge of burning the 3rd and final dock before joining the attack from the upper docks.
+    
+- Once the sun sets, each group begins moving into position.
+    
+- Sneak Rolls: [[4. Player Characters/Thelonuis The Blackwater\|Thelonuis The Blackwater]] Nat 20, [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]] 16, [[4. Player Characters/Elarian of House Ashenveil, Keeper of the Ashes\|Elarian of House Ashenveil, Keeper of the Ashes]] Nat 20, [[4. Player Characters/Aegis, Heir of the Ashenborn\|Aegis, Heir of the Ashenborn]] 9, [[4. Player Characters/Bug of the Night\|Bug of the Night]] 19, [[4. Player Characters/Yalger, The Tyrant\|Yalger, The Tyrant]] 16 and [[4. Player Characters/Vorrik, Breaker of Faith\|Vorrik, Breaker of Faith]] 1.
+    
+- The assault begins with the oil barrels being released from the cliffs and ignited, setting the Town Hall ablaze and throwing the Cove into chaos.
+    
+- The upper and southern docks are set on fire, cutting off the harbour while the party's forces enter the settlement from multiple directions.
+    
+- [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]], [[4. Player Characters/Vorrik, Breaker of Faith\|Vorrik, Breaker of Faith]] and [[4. Player Characters/Thelonuis The Blackwater\|Thelonuis The Blackwater]] lead the frontal assault through the main entrance while the remaining groups push inward from the docks.
+    
+- The party and their mercenaries ruthlessly overwhelm the defenders and successfully siege the town.
+    
+- By the end of the attack, the Smugglers Cove has been heavily destroyed and the [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]]'s presence on Turek has been severely weakened.
+    
+- During the aftermath, the party ==FILL IN: LOOTED THE COVE, CAPTURED SURVIVORS, SEARCHED THE BUILDINGS OR IMMEDIATELY DEPARTED==.
+    
+- The session ends with the party ==FILL IN: EXACT LOCATION OR FINAL ACTION AFTER THE SIEGE==.
+    
+
+</div></div>
