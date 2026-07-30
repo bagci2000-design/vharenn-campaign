@@ -54,10 +54,7 @@
     
 - By the end of the attack, the Smugglers Cove has been heavily destroyed and the [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]]'s presence on Turek has been severely weakened.
     
-- During the aftermath, the party ==FILL IN: LOOTED THE COVE, CAPTURED SURVIVORS, SEARCHED THE BUILDINGS OR IMMEDIATELY DEPARTED==.
-    
-- The session ends with the party ==FILL IN: EXACT LOCATION OR FINAL ACTION AFTER THE SIEGE==.
-    
+- During the aftermath, the party return to [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]].    
 
 </div></div>
 
@@ -76,16 +73,16 @@
 
 ---
 # [[7. Campaign Mechanics/HomeBrew & Other Rules/Doom Tokens\|Doom Tokens]] Tracker
-
-
+Thrain Ironhold 1
+Valoran of House Ashenveil, Ember of the Ashes 1
+Thelonuis The Blackwater 1
+Elarian of House Ashenveil, Keeper of the Ashes 1
 
 ---
 # Current Party XP
 ***0***
 
 ---
-
-
 
 
 ### Party Relationship Tracker
