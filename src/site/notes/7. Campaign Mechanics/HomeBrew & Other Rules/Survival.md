@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/7-campaign-mechanics/home-brew-and-other-rules/survival/"}
 ---
 
-## **Vharenn Survival Cheat Sheet**
-
 ### **1. Hunger & Exhaustion**
 
 - **Hunger Penalties** accumulate if a character goes without food:

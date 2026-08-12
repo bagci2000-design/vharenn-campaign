@@ -24,37 +24,18 @@
 
 
 
-- The party, after a failed negotiation with [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]], launch their ambush before he is able to leave the meeting place.
-    
-- A barrel with a dagger wedged into it at the perfect angle is exploded out and strikes [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]], leaving him unconscious.
-    
-- [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]] loots the unconscious Magistrate and takes his signet ring, an ivory pendant on a silver chain and 75GP.
-    
-- Following this, the party sets out to destroy the Smugglers Cove and further secure [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]] and [[1. Vharren World Lore/Factions/Thornhold\|Thornhold]]'s control over Turek.
-    
-- At the top of the cliffs overlooking the Town Hall, [[4. Player Characters/Elarian of House Ashenveil, Keeper of the Ashes\|Elarian of House Ashenveil, Keeper of the Ashes]] and 3 mercenaries prepare to roll oil barrels onto the building and ignite them with a fire cantrip.
-    
-- [[4. Player Characters/Bug of the Night\|Bug of the Night]], [[4. Player Characters/Aegis, Heir of the Ashenborn\|Aegis, Heir of the Ashenborn]] and 4 mercenaries are placed in charge of burning the top 2 docks before entering the town.
-    
-- [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]], [[4. Player Characters/Vorrik, Breaker of Faith\|Vorrik, Breaker of Faith]], [[4. Player Characters/Thelonuis The Blackwater\|Thelonuis The Blackwater]] and 6 mercenaries prepare to launch a full frontal assault through the main entrance.
-    
-- [[4. Player Characters/Yalger, The Tyrant\|Yalger, The Tyrant]] is placed in charge of burning the 3rd and final dock before joining the attack from the upper docks.
-    
-- Once the sun sets, each group begins moving into position.
-    
-- Sneak Rolls: [[4. Player Characters/Thelonuis The Blackwater\|Thelonuis The Blackwater]] Nat 20, [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]] 16, [[4. Player Characters/Elarian of House Ashenveil, Keeper of the Ashes\|Elarian of House Ashenveil, Keeper of the Ashes]] Nat 20, [[4. Player Characters/Aegis, Heir of the Ashenborn\|Aegis, Heir of the Ashenborn]] 9, [[4. Player Characters/Bug of the Night\|Bug of the Night]] 19, [[4. Player Characters/Yalger, The Tyrant\|Yalger, The Tyrant]] 16 and [[4. Player Characters/Vorrik, Breaker of Faith\|Vorrik, Breaker of Faith]] 1.
-    
-- The assault begins with the oil barrels being released from the cliffs and ignited, setting the Town Hall ablaze and throwing the Cove into chaos.
-    
-- The upper and southern docks are set on fire, cutting off the harbour while the party's forces enter the settlement from multiple directions.
-    
-- [[4. Player Characters/Thrain Ironhold\|Thrain Ironhold]], [[4. Player Characters/Vorrik, Breaker of Faith\|Vorrik, Breaker of Faith]] and [[4. Player Characters/Thelonuis The Blackwater\|Thelonuis The Blackwater]] lead the frontal assault through the main entrance while the remaining groups push inward from the docks.
-    
-- The party and their mercenaries ruthlessly overwhelm the defenders and successfully siege the town.
-    
-- By the end of the attack, the Smugglers Cove has been heavily destroyed and the [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]]'s presence on Turek has been severely weakened.
-    
-- During the aftermath, the party return to [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]].    
+- The party decides to inform Eira of their deeds with smugglers cove, waiting overnight to inform her of the parties decision to secure Turek under her control
+- The party has informed her that they intend toentrap and kill all rivals in the summit
+- The rewards for party has been set at 750 Gold (Total), Healing potions for each, Recognition as allies on mainland, Permanent safe location on Turek and safe transport back to mainland
+- The party finds a blood trail from where Magistrate Corvin Drehl's unconscious body was
+- They have also found out they are on the 7th day of amberfall
+- The footsteps Vorran, Binder of Souls has found lead westward towards port veilmar
+- The party finds an unrecognised Glacari buried in a makeshift grave
+- The party goes to meet with Eira and await the Summit at the sacred springs with 2 days remaining until summit and Leviathan Vault new representative arrive 
+- The party has decided they want to prep for the leviathan vault representative arrival by framing the frostbrand as the perpetrators of the massacre with writing and the body and the signet ring of Magistrate corvin drehl. The rest of the party is going to stay at sacred spring and prep incase of frostbrand coming with an army after magistrate has been attacked (they were not able to find his unconscius body) 
+- Eira has responded with scepticism about the level of deception and only wants the party to put more effort into the smugglers cover to deceive the leviathan vault.
+- Vorran, Binder of Souls and Thelonuis The Blackwater intend to stay back at smugglers cove to play as a beggar and funnel more deception directly to them.
+- the plan then is to have the leviathan vault directly against the frostbrand tribunal and then the party and Eira will then remove the remaining after.
 
 </div></div>
 

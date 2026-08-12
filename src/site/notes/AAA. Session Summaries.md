@@ -120,3 +120,32 @@
 - During the aftermath, the party return to [[3. NPC's/Turek/Eira Mossfang\|Eira Mossfang]].    
 
 </div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- 
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- The party decides to inform Eira of their deeds with smugglers cove, waiting overnight to inform her of the parties decision to secure Turek under her control
+- The party has informed her that they intend toentrap and kill all rivals in the summit
+- The rewards for party has been set at 750 Gold (Total), Healing potions for each, Recognition as allies on mainland, Permanent safe location on Turek and safe transport back to mainland
+- The party finds a blood trail from where Magistrate Corvin Drehl's unconscious body was
+- They have also found out they are on the 7th day of amberfall
+- The footsteps Vorran, Binder of Souls has found lead westward towards port veilmar
+- The party finds an unrecognised Glacari buried in a makeshift grave
+- The party goes to meet with Eira and await the Summit at the sacred springs with 2 days remaining until summit and Leviathan Vault new representative arrive 
+- The party has decided they want to prep for the leviathan vault representative arrival by framing the frostbrand as the perpetrators of the massacre with writing and the body and the signet ring of Magistrate corvin drehl. The rest of the party is going to stay at sacred spring and prep incase of frostbrand coming with an army after magistrate has been attacked (they were not able to find his unconscius body) 
+- Eira has responded with scepticism about the level of deception and only wants the party to put more effort into the smugglers cover to deceive the leviathan vault.
+- Vorran, Binder of Souls and Thelonuis The Blackwater intend to stay back at smugglers cove to play as a beggar and funnel more deception directly to them.
+- the plan then is to have the leviathan vault directly against the frostbrand tribunal and then the party and Eira will then remove the remaining after.
+
+</div></div>

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/7-campaign-mechanics/home-brew-and-other-rules/vharenn-initiative/"}
 ---
 
-## **Vharenn Initiative Cheat Sheet**
-
 ### **Step 1: Base Initiative**
 
 **Roll:** D20 + DEX modifier  
