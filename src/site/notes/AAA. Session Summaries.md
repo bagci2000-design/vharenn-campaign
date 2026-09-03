@@ -149,3 +149,19 @@
 - the plan then is to have the leviathan vault directly against the frostbrand tribunal and then the party and Eira will then remove the remaining after.
 
 </div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- A thornhold scout has arrived out of breath to the sacred spring out of breath informing party that Magistrate corvin drehl is coming to the summit with the Frostbrand Tribunal.
+- Dilhan introduced
+- A neew plan to trap disarm and stop frostbrand tribunal members at the sacred spring, they want tools, able bodied people to asisst with setting up traps with logs, fish nets, and essentially viet cong esque guerilla warfare at the sacred spring
+- need shovels, vietnamese spike traps, 
+- Eiras 2 scouts go out just a bit enough to provide some warning of their arrival
+- pits for people to hide in and jump out
+- The plan has since been changed, Thelonuis The Blackwater and Vorran, Binder of Souls will still be going to the ruins of Smugglers cove to act as beggars and add to the deception within addition to the already existing plan of taking the glacari body to the smugglers cove and writing on some buildings that Frostbrand rules etc. to deceive the arriving leviathan vault representative that Frostbrand are the ones who decimated Smugglers cove. hoping the Leviathan are angered enough to fight on sight with Frostbrand at the meeting. Magistrate corvin Drehl will just be coming as is with no interaction from the party beforehand. traps will be set up at the Sacred spring as a fall back option incase this doesnt work.
+- We will be skipping until leviathan vault arrive and then the party can have interactions and then any other ok skips.
+
+</div></div>
