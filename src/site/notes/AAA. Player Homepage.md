@@ -13,8 +13,8 @@
 - [x] Find out more about "D.R."
 - [x] Investigate the other factions present on Turek
 - [x] Attend Sir Revik's Ball
-- [ ] Attend the meeting of the Faction Leaders
-- [ ] Inform the Meeting of Faction Leaders who is the culprit
+- [x] Attend the meeting of the Faction Leaders
+- [x] Inform the Meeting of Faction Leaders who is the culprit
 - [ ] Decide the fate of Turek
 - [ ] Escape to Mainland
 
