@@ -165,3 +165,17 @@
 - We will be skipping until leviathan vault arrive and then the party can have interactions and then any other ok skips.
 
 </div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- [[4. Player Characters/Vorran, Binder of Souls\|Vorran, Binder of Souls]] and [[4. Player Characters/Thelonuis The Blackwater\|Thelonuis The Blackwater]] remained disguised amongst the ruins of [[Smugglers Cove\|Smugglers Cove]], helping sell the party’s attempt to frame the [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] for its destruction.
+- The new [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]] delegation arrived, investigated the devastation, and eventually travelled to the [[Sacred Springs\|Sacred Springs]] where the remaining factions had gathered.
+- Tensions at the summit rapidly collapsed as accusations surrounding [[3. NPC's/Turek/Dalen Revik\|Dalen Revik]], the destruction of Smugglers Cove and the attack on [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]] pushed all sides toward violence.
+- The party launched their prepared ambush, turning the Sacred Springs into an all-out battle between [[1. Vharren World Lore/Factions/Thornhold\|Thornhold]], the [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] and the [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]].
+- By the end of the fighting, the party and their allies had **laid waste to the Frostbrand and Leviathan forces present**, leaving Thornhold effectively unopposed at the Sacred Springs.
+- The session ended immediately after the battle, with the fallen forces and their belongings still scattered across the battlefield. **The party will begin next session by searching and looting the aftermath.**
+
+</div></div>

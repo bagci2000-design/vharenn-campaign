@@ -25,14 +25,12 @@
 
 
 
-- A thornhold scout has arrived out of breath to the sacred spring out of breath informing party that Magistrate corvin drehl is coming to the summit with the Frostbrand Tribunal.
-- Dilhan introduced
-- A neew plan to trap disarm and stop frostbrand tribunal members at the sacred spring, they want tools, able bodied people to asisst with setting up traps with logs, fish nets, and essentially viet cong esque guerilla warfare at the sacred spring
-- need shovels, vietnamese spike traps, 
-- Eiras 2 scouts go out just a bit enough to provide some warning of their arrival
-- pits for people to hide in and jump out
-- The plan has since been changed, Thelonuis The Blackwater and Vorran, Binder of Souls will still be going to the ruins of Smugglers cove to act as beggars and add to the deception within addition to the already existing plan of taking the glacari body to the smugglers cove and writing on some buildings that Frostbrand rules etc. to deceive the arriving leviathan vault representative that Frostbrand are the ones who decimated Smugglers cove. hoping the Leviathan are angered enough to fight on sight with Frostbrand at the meeting. Magistrate corvin Drehl will just be coming as is with no interaction from the party beforehand. traps will be set up at the Sacred spring as a fall back option incase this doesnt work.
-- We will be skipping until leviathan vault arrive and then the party can have interactions and then any other ok skips.
+- [[4. Player Characters/Vorran, Binder of Souls\|Vorran, Binder of Souls]] and [[4. Player Characters/Thelonuis The Blackwater\|Thelonuis The Blackwater]] remained disguised amongst the ruins of [[Smugglers Cove\|Smugglers Cove]], helping sell the party’s attempt to frame the [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] for its destruction.
+- The new [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]] delegation arrived, investigated the devastation, and eventually travelled to the [[Sacred Springs\|Sacred Springs]] where the remaining factions had gathered.
+- Tensions at the summit rapidly collapsed as accusations surrounding [[3. NPC's/Turek/Dalen Revik\|Dalen Revik]], the destruction of Smugglers Cove and the attack on [[3. NPC's/Turek/Magistrate Corvin Drehl\|Magistrate Corvin Drehl]] pushed all sides toward violence.
+- The party launched their prepared ambush, turning the Sacred Springs into an all-out battle between [[1. Vharren World Lore/Factions/Thornhold\|Thornhold]], the [[1. Vharren World Lore/Factions/Frostbrand Tribunal\|Frostbrand Tribunal]] and the [[1. Vharren World Lore/Factions/Leviathan Vault\|Leviathan Vault]].
+- By the end of the fighting, the party and their allies had **laid waste to the Frostbrand and Leviathan forces present**, leaving Thornhold effectively unopposed at the Sacred Springs.
+- The session ended immediately after the battle, with the fallen forces and their belongings still scattered across the battlefield. **The party will begin next session by searching and looting the aftermath.**
 
 </div></div>
 
@@ -44,10 +42,10 @@
 ---
 # [[7. Campaign Mechanics/HomeBrew & Other Rules/Inspiration Tokens\|Inspiration Tokens]] Tracker:
 
-## Current Inspiration Tokens Available : 7
+## Current Inspiration Tokens Available : 8
 
 #### Characters with Token:
-[[4. Player Characters/Vorran, Binder of Souls\|Vorran, Binder of Souls]]
+
 
 ---
 # [[7. Campaign Mechanics/HomeBrew & Other Rules/Doom Tokens\|Doom Tokens]] Tracker
